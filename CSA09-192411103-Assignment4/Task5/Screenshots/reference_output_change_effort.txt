@@ -1,0 +1,6 @@
+Reference output captured in the preparation sandbox (OpenJDK 21). It is NOT a screenshot of your run: run the program yourself and take your own screenshot.
+Lines touched between ConverterX and ConverterX2 (class names ignored):
+style A: removed=1 added=6
+style B: removed=2 added=8
+style C: removed=3 added=9
+style D: removed=2 added=8

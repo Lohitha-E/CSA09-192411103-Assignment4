@@ -1,0 +1,7 @@
+Reference output captured in the preparation sandbox (OpenJDK 21). It is NOT a screenshot of your run: run the program yourself and take your own screenshot.
+Command: javac -d out2 Task4\CompilerErrorDemo\DrawPad.java
+
+Task4/CompilerErrorDemo/DrawPad.java:8: error: method does not override or implement a method from a supertype
+            @Override public void mouseclicked(MouseEvent e) { }
+            ^
+1 error

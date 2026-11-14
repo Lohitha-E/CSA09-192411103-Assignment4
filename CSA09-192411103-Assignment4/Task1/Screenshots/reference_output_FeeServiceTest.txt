@@ -1,0 +1,19 @@
+Reference output captured in the preparation sandbox (OpenJDK 21). It is NOT a screenshot of your run: run the program yourself and take your own screenshot.
+Command: java -cp out FeeServiceTest
+
+PASS  valid input accepted
+PASS  empty register number rejected
+PASS  short register number rejected
+PASS  letters in register number rejected
+PASS  empty amount rejected
+PASS  text amount rejected
+PASS  negative amount rejected
+PASS  zero amount rejected
+PASS  3 decimal places rejected
+PASS  amount above limit rejected
+PASS  SQL text rejected as amount
+PASS  payment returns receipt
+PASS  exactly one row saved
+PASS  invalid payment saves nothing
+PASS  database failure wrapped, cause kept
+All tests passed.

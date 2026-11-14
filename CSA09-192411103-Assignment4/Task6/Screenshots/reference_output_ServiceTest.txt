@@ -1,0 +1,25 @@
+Reference output captured in the preparation sandbox (OpenJDK 21). It is NOT a screenshot of your run: run the program yourself and take your own screenshot.
+Command: java -cp out events.ServiceTest
+
+PASS  normal registration stored
+PASS  short student id rejected
+PASS  letters in student id rejected
+PASS  empty name rejected
+PASS  digits in name rejected
+PASS  bad e-mail rejected
+PASS  no event selected rejected
+PASS  'All events' is not a valid choice
+PASS  invalid input stored nothing
+PASS  duplicate rejected: This student is already registered for Cultural Night.
+PASS  duplicate stored nothing
+PASS  same student, other event allowed
+PASS  DAO unique rule rejects a direct duplicate insert
+PASS  total rows = 47
+PASS  page count = 3
+PASS  first page has 20 rows
+PASS  last page has 7 rows
+PASS  page number beyond the end is clamped to the last page
+PASS  filter by event returns only that event
+PASS  export wrote every row
+PASS  export has a header line
+All tests passed.
