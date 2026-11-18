@@ -4,7 +4,7 @@
 **Register number:** 192411103  
 **Course:** CSA09 – Programming in Java  
 **Java validation environment:** OpenJDK 21.0.12  
-**GitHub repository:** _Add the actual repository URL before submission._
+**GitHub repository:** https://github.com/Lohitha-E/CSA09-192411103-Assignment4
 
 ## Project contents
 
